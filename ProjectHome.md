@@ -1,0 +1,1 @@
+Just add a custom field - and you can copy task data from issue page!
